@@ -1,7 +1,4 @@
-:root {
-    --quantum-list-item-padding: 0.7em 1em;
-}
-
 body {
+    visibility: hidden;
     margin: 0;
 }
