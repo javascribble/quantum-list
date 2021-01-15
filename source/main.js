@@ -1,1 +1,3 @@
-export * from './elements/list.js';
+import * as list from './elements/list.js';
+
+Object.assign(window, list);
