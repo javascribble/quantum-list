@@ -1,3 +1,3 @@
-import * as list from './elements/list.js';
+import { List } from './elements/list.js';
 
-Object.assign(quantum, list);
+Quantum.List = List;
